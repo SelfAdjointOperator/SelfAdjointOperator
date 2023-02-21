@@ -1,8 +1,6 @@
 # SelfAdjointOperator / jb2170
 
-|   |   |
-| - | - |
-| 23 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics** | ![pic-of-me](static/images/2022-10-14.scale.jpg) |
+23 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
 
 ## Studies
 
