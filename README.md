@@ -44,8 +44,14 @@ I am familiar with the following:
 | > [SelfAdjointOperator][github-SelfAdjointOperator] | (former username until 2023/02/21)  |
 | > [mmu-22577141][github-mmu-22577141]               | (for my Master's degree coursework) |
 
-[github-SelfAdjointOperator]: https://github.com/SelfAdjointOperator
-[github-mmu-22577141]: https://github.com/mmu-22577141
+| Other Sites                   |
+| -                             |
+| > [LinkedIn][linkedin-jb2170] |
 
 [www.jb2170.com]: https://www.jb2170.com
 [www.selfadjointoperator.com]: https://www.selfadjointoperator.com
+
+[github-SelfAdjointOperator]: https://github.com/SelfAdjointOperator
+[github-mmu-22577141]: https://github.com/mmu-22577141
+
+[linkedin-jb2170]: https://www.linkedin.com/in/jb2170/
