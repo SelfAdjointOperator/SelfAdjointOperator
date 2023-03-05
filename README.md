@@ -1,4 +1,4 @@
-# SelfAdjointOperator / jb2170
+# Jay Berry / jb2170 / SelfAdjointOperator
 
 23 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
 
