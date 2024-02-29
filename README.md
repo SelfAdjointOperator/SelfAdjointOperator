@@ -1,13 +1,13 @@
 # Jay Berry / jb2170 / SelfAdjointOperator
 
-23 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
+24 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
 
 ## Studies
 
-|                                    |                             |      |             |
-| -                                  | -                           | -    | -           |
-| Manchester Metropolitan University | **Artificial Intelligence** | MSc  | (2022-2023) |
-| **University of Cambridge**        | Mathematics Tripos          | BA   | (2017-2020) |
+|                                    |                             |     |                 |             |
+| -                                  | -                           | -   | -               | -           |
+| Manchester Metropolitan University | **Artificial Intelligence** | MSc | **Distinction** | (2022-2023) |
+| **University of Cambridge**        | Mathematics Tripos          | BA  | Senior Optime   | (2017-2020) |
 
 ## Programming
 I use **Arch Linux** as my daily driver and I primarily program in **Python** and **C++**.
