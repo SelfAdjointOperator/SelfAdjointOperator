@@ -1,4 +1,4 @@
-# Jay Berry / jb2170 / SelfAdjointOperator
+# Jay Berry / jb2170
 
 24 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
 
@@ -35,26 +35,12 @@ I am familiar with the following:
 
 ## Links
 
-| Personal Websites                                            |
-| -                                                            |
-| > [www.jb2170.com][www.jb2170.com]                           |
-| > [www.selfadjointoperator.com][www.selfadjointoperator.com] |
-
-| GitHub Accounts                                     |                                     |
-| -                                                   | -                                   |
-| > [jb2170][github-jb2170]                           | (main account)                      |
-| > [SelfAdjointOperator][github-SelfAdjointOperator] | (former username until 2023/02/21)  |
-| > [mmu-22577141][github-mmu-22577141]               | (for my Master's degree coursework) |
-
-| Other Sites                   |
-| -                             |
-| > [LinkedIn][linkedin-jb2170] |
+|                                    |
+| -                                  |
+| > [www.jb2170.com][www.jb2170.com] |
+| > [GitHub][github-jb2170]          |
+| > [LinkedIn][linkedin-jb2170]      |
 
 [www.jb2170.com]: https://www.jb2170.com
-[www.selfadjointoperator.com]: https://www.selfadjointoperator.com
-
 [github-jb2170]: https://github.com/jb2170
-[github-SelfAdjointOperator]: https://github.com/SelfAdjointOperator
-[github-mmu-22577141]: https://github.com/mmu-22577141
-
 [linkedin-jb2170]: https://www.linkedin.com/in/jb2170/
