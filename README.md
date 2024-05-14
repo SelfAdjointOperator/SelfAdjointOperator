@@ -6,6 +6,7 @@
 
 |                                    |                             |     |                 |             |
 | -                                  | -                           | -   | -               | -           |
+| University of Cambridge            | Mathematics Tripos          | MA  | Honorary        | (2024)      |
 | Manchester Metropolitan University | **Artificial Intelligence** | MSc | **Distinction** | (2022-2023) |
 | **University of Cambridge**        | Mathematics Tripos          | BA  | Senior Optime   | (2017-2020) |
 
