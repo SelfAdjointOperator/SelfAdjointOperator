@@ -1,6 +1,6 @@
 # Jay Berry / jb2170
 
-24 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
+25 year old **mathematician** and **programmer** with a strong background in **Artificial Intelligence** and **Statistics**
 
 ## Studies
 
